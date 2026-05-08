@@ -1,0 +1,30 @@
+{
+  "ui.title":              "AI Hegemony Wars",
+  "ui.subtitle":           "A 3D RTS/FPS hybrid powered by real LLM benchmark data",
+  "ui.start_singleplayer": "Single Player",
+  "ui.start_multiplayer":  "Multiplayer",
+  "ui.options":            "Options",
+  "ui.language":           "Language",
+  "ui.language.korean":    "한국어",
+  "ui.language.english":   "English",
+  "ui.exit":               "Quit",
+
+  "hud.resources":         "Resources: {0}",
+  "hud.faction.usa":       "USA Faction",
+  "hud.faction.china":     "China Faction",
+  "hud.possess_hint":      "Select a unit, press [C] to possess, [V] to release",
+  "hud.possess_buff":      "Possessed — +50% damage and movement speed",
+
+  "tooltip.intelligence":  "Intelligence: coding/math/reasoning score (HP·damage·armor)",
+  "tooltip.speed":         "Speed: output tokens/sec (drives action gauge)",
+  "tooltip.price":         "Price: USD per 1M output tokens (drives unit cost)",
+
+  "buff.us_americas":      "Americas home buff: +20% production, +40% damage",
+  "buff.china_asia":       "Asia home buff: +30% production, -40% cost",
+
+  "drift.claude_46":       "Hallucination debuff active — Claude Opus 4.6 units uncontrolled",
+  "drift.gpt54_throttle":  "Throttling event — GPT-5.4 unit action gauge slowed",
+
+  "notif.unit_produced":   "{0} unit produced",
+  "notif.region_captured": "{0} captured"
+}

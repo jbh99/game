@@ -1,0 +1,15 @@
+modelId,displayName,vendor,faction,tokensPerSec,intelligenceScore,pricePerMTokens,role
+gpt-oss-120b,gpt-oss-120B,OpenAI,USA,230,55,0.30,swarm
+nvidia-nemotron-3-super,NVIDIA Nemotron 3 Super,NVIDIA,USA,180,52,0.40,swarm
+gpt-5-4,GPT-5.4,OpenAI,USA,90,80,5.50,strike
+gpt-5-5,GPT-5.5,OpenAI,USA,60,95,11.30,heavy
+claude-opus-4-6,Claude Opus 4.6,Anthropic,USA,48,90,10.50,heavy
+claude-opus-4-7,Claude Opus 4.7,Anthropic,USA,45,93,10.90,heavy
+gemini-3-1-pro-preview,Gemini 3.1 Pro Preview,Google,USA,126,82,4.50,strike
+grok-4-3,Grok 4.3,xAI,USA,80,75,1.60,strike
+deepseek-v4-pro,DeepSeek V4 Pro,DeepSeek,China,34,88,2.20,heavy
+deepseek-r1,DeepSeek R1,DeepSeek,China,55,85,2.00,strike
+qwen-3-5-122b,Qwen 3.5 122B,Alibaba,China,120,70,1.10,swarm
+mimo-v2-5-pro,MiMo V2.5 Pro,Xiaomi,China,57,72,1.50,strike
+kimi-k2-6,Kimi K2.6,Moonshot,China,30,78,2.00,heavy
+zhipu-glm-5,Zhipu GLM 5,Zhipu AI,China,90,72,1.30,strike

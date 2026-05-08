@@ -1,0 +1,30 @@
+{
+  "ui.title":              "AI 패권 전쟁",
+  "ui.subtitle":           "LLM 벤치마크 데이터로 싸우는 3D RTS/FPS 하이브리드",
+  "ui.start_singleplayer": "싱글 플레이",
+  "ui.start_multiplayer":  "멀티 플레이",
+  "ui.options":            "옵션",
+  "ui.language":           "언어",
+  "ui.language.korean":    "한국어",
+  "ui.language.english":   "English",
+  "ui.exit":               "종료",
+
+  "hud.resources":         "자원: {0}",
+  "hud.faction.usa":       "미국 진영 (USA)",
+  "hud.faction.china":     "중국 진영 (China)",
+  "hud.possess_hint":      "유닛 선택 후 [C] 키로 빙의 / [V] 키로 해제",
+  "hud.possess_buff":      "빙의 중 — 공격력/이동속도 +50%",
+
+  "tooltip.intelligence":  "지능: 코딩/수학/추론 점수 (HP·공격력·방어력)",
+  "tooltip.speed":         "속도: 초당 토큰 (행동 게이지)",
+  "tooltip.price":         "가격: 100만 토큰 USD (생산 비용)",
+
+  "buff.us_americas":      "아메리카 본토 보너스: 생산속도 +20%, 공격력 +40%",
+  "buff.china_asia":       "아시아 본토 보너스: 생산속도 +30%, 비용 -40%",
+
+  "drift.claude_46":       "환각 디버프 발동 — Claude Opus 4.6 유닛이 통제 불능 상태",
+  "drift.gpt54_throttle":  "스로틀링 발생 — GPT-5.4 유닛 행동 게이지 지연",
+
+  "notif.unit_produced":   "{0} 유닛 생산 완료",
+  "notif.region_captured": "{0} 점령됨"
+}
